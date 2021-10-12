@@ -1,5 +1,5 @@
 # Secure-Login-Registration-System
-Built using HTML, PHP, JS.
+Built using HTML,CSS, JS and PHP.
 
 Using Xavier framework.
 
