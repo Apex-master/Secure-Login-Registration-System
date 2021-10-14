@@ -1,4 +1,9 @@
 # Secure-Login-Registration-System
+
+Login and registration system with neat looking design.
+
+Software backend handler api in members panel.
+
 Built using HTML,CSS, JS and PHP.
 
 Using Xavier framework.
